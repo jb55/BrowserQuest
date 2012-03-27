@@ -1,0 +1,20 @@
+{
+  "author": "",
+  "name": "BrowserQuest",
+  "version": "0.0.0",
+  "repository": {},
+  "main": "server/js/main.js",
+  "engines": {
+    "node": "~0.6.8"
+  },
+  "dependencies": {
+      "memcache": "*"
+    , "websocket-server": "*"
+    , "sanitizer": "*"
+    , "bison": "*"
+    , "log": "*"
+    , "underscore": "*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
